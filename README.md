@@ -1,8 +1,7 @@
 <h1 align="center">YO 👋, I'm Raoui Rahmeni</h1>
-<img align="right" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100" />
+<img align="right" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="100" />
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
-<h3 align="center" style>I'm a Developer, a cat person and an average meme enjoyer !!</h3>
+https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other visioners
