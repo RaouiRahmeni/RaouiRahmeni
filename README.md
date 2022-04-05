@@ -58,12 +58,11 @@
 <br />
 <br />
 
-  <!-- <img align="left" alt="Raoui Rahmeni's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RaouiRahmeni&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> -->
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaouiRahmeni&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaouiRahmeni&layout=compact&langs_count=7&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
 </div>
+
 [website]: https://raouirahmeni.netlify.app/
 [twitter]: https://twitter.com/RaouiRahmeni
 [linkedin]: https://www.linkedin.com/in/raoui-rahmeni-b82642203/
