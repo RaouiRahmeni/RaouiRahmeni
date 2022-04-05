@@ -25,35 +25,35 @@
 ### Languages and Tools:
 
 <p align="left">
-<img width="40" height="40" alt="javascript" src="./icons/javascript-plain.svg"/>
-<img width="40" height="40" alt="typescript" src="./icons/typescript-plain.svg"/>
-<img width="40" height="40" alt="HTML5" src="./icons/html5-plain.svg"/>
-<img width="40" height="40" alt="CSS3" src="./icons/css3-plain.svg"/>
-<img width="40" height="40" alt="sass" src="./icons/sass-original.svg"/>
-<img width="40" height="40" alt="git" src="./icons/git-plain.svg"/>
-<img width="40" height="40" alt="redux" src="./icons/redux-original.svg"/>
-<img width="40" height="40" alt="react" src="./icons/react-original.svg"/>
-<img width="40" height="40" alt="nextjs" src="./icons/nextjs.svg"/>
-<img width="40" height="40" alt="angular" src="./icons/angularjs-plain.svg"/>
-<img width="40" height="40" alt="vuejs" src="./icons/vuejs-plain.svg"/>
-<img width="40" height="40" alt="bootstrap" src="./icons/bootstrap-plain.svg"/>
-<img width="40" height="40" alt="webpack" src="./icons/webpack-plain.svg"/>
-<img width="40" height="40" alt="babel" src="./icons/babel-original.svg"/>
-<img width="40" height="40" alt="firebase" src="./icons/firebase-plain.svg"/>
-<img width="40" height="40" alt="nodejs" src="./icons/nodejs-plain-wordmark.svg"/>
-<img width="40" height="40" alt="express" src="./icons/express-original.svg"/>
-<img width="40" height="40" alt="nestjs" src="./icons/nestjs-plain.svg"/>
-<img width="40" height="40" alt="graphql" src="./icons/graphql.svg"/>
-<img width="40" height="40" alt="mysql" src="./icons/mysql-plain-wordmark.svg"/>
-<img width="40" height="40" alt="postgresql" src="./icons/postgresql-plain.svg"/>
-<img width="40" height="40" alt="sequelize" src="./icons/sequelize-original.svg"/>
-<img width="40" height="40" alt="mongodb" src="./icons/mongodb-plain-wordmark.svg"/>
-<img width="40" height="40" alt="mocha" src="./icons/mocha-plain.svg"/>
+<img width="40" height="40" alt="javascript" src="./img/javascript-plain.svg"/>
+<img width="40" height="40" alt="typescript" src="./img/typescript-plain.svg"/>
+<img width="40" height="40" alt="HTML5" src="./img/html5-plain.svg"/>
+<img width="40" height="40" alt="CSS3" src="./img/css3-plain.svg"/>
+<img width="40" height="40" alt="sass" src="./img/sass-original.svg"/>
+<img width="40" height="40" alt="git" src="./img/git-plain.svg"/>
+<img width="40" height="40" alt="redux" src="./img/redux-original.svg"/>
+<img width="40" height="40" alt="react" src="./img/react-original.svg"/>
+<img width="40" height="40" alt="nextjs" src="./img/nextjs.svg"/>
+<img width="40" height="40" alt="angular" src="./img/angularjs-plain.svg"/>
+<img width="40" height="40" alt="vuejs" src="./img/vuejs-plain.svg"/>
+<img width="40" height="40" alt="bootstrap" src="./img/bootstrap-plain.svg"/>
+<img width="40" height="40" alt="webpack" src="./img/webpack-plain.svg"/>
+<img width="40" height="40" alt="babel" src="./img/babel-original.svg"/>
+<img width="40" height="40" alt="firebase" src="./img/firebase-plain.svg"/>
+<img width="40" height="40" alt="nodejs" src="./img/nodejs-plain-wordmark.svg"/>
+<img width="40" height="40" alt="express" src="./img/express-original.svg"/>
+<img width="40" height="40" alt="nestjs" src="./img/nestjs-plain.svg"/>
+<img width="40" height="40" alt="graphql" src="./img/graphql.svg"/>
+<img width="40" height="40" alt="mysql" src="./img/mysql-plain-wordmark.svg"/>
+<img width="40" height="40" alt="postgresql" src="./img/postgresql-plain.svg"/>
+<img width="40" height="40" alt="sequelize" src="./img/sequelize-original.svg"/>
+<img width="40" height="40" alt="mongodb" src="./img/mongodb-plain-wordmark.svg"/>
+<img width="40" height="40" alt="mocha" src="./img/mocha-plain.svg"/>
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-<img width="40" height="40" alt="go" src="./icons/go-original.svg"/>
-<img width="40" height="40" alt="linux" src="./icons/linux-original.svg"/>
-<img width="40" height="40" alt="bash" src="./icons/bash-original.svg"/>
-<img width="40" height="40" alt="docker" src="./icons/docker-plain.svg"/>
+<img width="40" height="40" alt="go" src="./img/go-original.svg"/>
+<img width="40" height="40" alt="linux" src="./img/linux-original.svg"/>
+<img width="40" height="40" alt="bash" src="./img/bash-original.svg"/>
+<img width="40" height="40" alt="docker" src="./img/docker-plain.svg"/>
 
 <br />
 <br />
