@@ -24,20 +24,36 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />][webdevplaylist]
+<p align="left">
+<img width="40" height="40" alt="javascript" src="./icons/javascript-plain.svg"/>
+<img width="40" height="40" alt="typescript" src="./icons/typescript-plain.svg"/>
+<img width="40" height="40" alt="HTML5" src="./icons/html5-plain.svg"/>
+<img width="40" height="40" alt="CSS3" src="./icons/css3-plain.svg"/>
+<img width="40" height="40" alt="sass" src="./icons/sass-original.svg"/>
+<img width="40" height="40" alt="git" src="./icons/git-plain.svg"/>
+<img width="40" height="40" alt="redux" src="./icons/redux-original.svg"/>
+<img width="40" height="40" alt="react" src="./icons/react-original.svg"/>
+<img width="40" height="40" alt="nextjs" src="./icons/nextjs.svg"/>
+<img width="40" height="40" alt="angular" src="./icons/angularjs-plain.svg"/>
+<img width="40" height="40" alt="vuejs" src="./icons/vuejs-plain.svg"/>
+<img width="40" height="40" alt="bootstrap" src="./icons/bootstrap-plain.svg"/>
+<img width="40" height="40" alt="webpack" src="./icons/webpack-plain.svg"/>
+<img width="40" height="40" alt="babel" src="./icons/babel-original.svg"/>
+<img width="40" height="40" alt="firebase" src="./icons/firebase-plain.svg"/>
+<img width="40" height="40" alt="nodejs" src="./icons/nodejs-plain-wordmark.svg"/>
+<img width="40" height="40" alt="express" src="./icons/express-original.svg"/>
+<img width="40" height="40" alt="nestjs" src="./icons/nestjs-plain.svg"/>
+<img width="40" height="40" alt="graphql" src="./icons/graphql.svg"/>
+<img width="40" height="40" alt="mysql" src="./icons/mysql-plain-wordmark.svg"/>
+<img width="40" height="40" alt="postgresql" src="./icons/postgresql-plain.svg"/>
+<img width="40" height="40" alt="sequelize" src="./icons/sequelize-original.svg"/>
+<img width="40" height="40" alt="mongodb" src="./icons/mongodb-plain-wordmark.svg"/>
+<img width="40" height="40" alt="mocha" src="./icons/mocha-plain.svg"/>
+<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+<img width="40" height="40" alt="go" src="./icons/go-original.svg"/>
+<img width="40" height="40" alt="linux" src="./icons/linux-original.svg"/>
+<img width="40" height="40" alt="bash" src="./icons/bash-original.svg"/>
+<img width="40" height="40" alt="docker" src="./icons/docker-plain.svg"/>
 
 <br />
 <br />
