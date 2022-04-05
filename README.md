@@ -2,9 +2,9 @@
 
 <h3 align="center" style>I'm a Developer, a cat person and an average meme enjoyer !!</h3>
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other visioners
-- 🥅 2022 Goals: Learn more about web3
+- 🌱 I’m currently learning everything.
+- 👯 I’m looking to collaborate with you 😊
+- 🥅 2022 Goals: Land a good Job and scale up my network 📈
 - ⚡ Fun fact: I can fix your printer but i like to give you the chance to learn
 - 😻 Check out a Portfolio I created: [Portfolio][website]
 
@@ -33,7 +33,6 @@
 <img width="40" height="40" alt="git" src="./img/git-plain.svg"/>
 <img width="40" height="40" alt="redux" src="./img/redux-original.svg"/>
 <img width="40" height="40" alt="react" src="./img/react-original.svg"/>
-<img width="40" height="40" alt="nextjs" src="./img/nextjs.svg"/>
 <img width="40" height="40" alt="angular" src="./img/angularjs-plain.svg"/>
 <img width="40" height="40" alt="vuejs" src="./img/vuejs-plain.svg"/>
 <img width="40" height="40" alt="bootstrap" src="./img/bootstrap-plain.svg"/>
@@ -42,18 +41,13 @@
 <img width="40" height="40" alt="firebase" src="./img/firebase-plain.svg"/>
 <img width="40" height="40" alt="nodejs" src="./img/nodejs-plain-wordmark.svg"/>
 <img width="40" height="40" alt="express" src="./img/express-original.svg"/>
-<img width="40" height="40" alt="nestjs" src="./img/nestjs-plain.svg"/>
-<img width="40" height="40" alt="graphql" src="./img/graphql.svg"/>
 <img width="40" height="40" alt="mysql" src="./img/mysql-plain-wordmark.svg"/>
-<img width="40" height="40" alt="postgresql" src="./img/postgresql-plain.svg"/>
 <img width="40" height="40" alt="sequelize" src="./img/sequelize-original.svg"/>
 <img width="40" height="40" alt="mongodb" src="./img/mongodb-plain-wordmark.svg"/>
 <img width="40" height="40" alt="mocha" src="./img/mocha-plain.svg"/>
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-<img width="40" height="40" alt="go" src="./img/go-original.svg"/>
 <img width="40" height="40" alt="linux" src="./img/linux-original.svg"/>
 <img width="40" height="40" alt="bash" src="./img/bash-original.svg"/>
-<img width="40" height="40" alt="docker" src="./img/docker-plain.svg"/>
 
 <br />
 <br />
