@@ -1,8 +1,6 @@
 <h1 align="center">YO 👋, I'm Raoui Rahmeni</h1>
 <img align="right" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="100" />
 
-https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC
-
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other visioners
 - 🥅 2022 Goals: Learn more about web3
