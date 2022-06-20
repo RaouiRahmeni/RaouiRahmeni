@@ -2,6 +2,10 @@
 
 <h3 align="center" style>I'm a Developer, a cat person and an average meme enjoyer !!</h3>
 
+### My contributions are few because the snake eat them ☺
+![snake gif](https://github.com/RaouiRahmeni/RaouiRahmeni/blob/output/github-contribution-grid-snake.gif)
+
+
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with you 😊
 - 🥅 2022 Goals: Land a good Job and scale up my network 📈
@@ -52,9 +56,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaouiRahmeni&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaouiRahmeni&layout=compact&langs_count=7&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
 </div>
-
-### My contributions are few because the snake eat them ☺
-![snake gif](https://github.com/RaouiRahmeni/RaouiRahmeni/blob/output/github-contribution-grid-snake.gif)
 
 [website]: https://raouirahmeni.netlify.app/
 [twitter]: https://twitter.com/RaouiRahmeni
