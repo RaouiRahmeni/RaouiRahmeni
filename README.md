@@ -2,29 +2,7 @@
 
 <h3 align="center" style>I'm a Developer, a cat person and an average meme enjoyer !!</h3>
 
-### My contributions are few because the snake eat them ☺
 ![snake gif](https://github.com/RaouiRahmeni/RaouiRahmeni/blob/output/github-contribution-grid-snake.gif)
-
-
-- 🌱 I’m currently learning everything.
-- 👯 I’m looking to collaborate with you 😊
-- 🥅 2022 Goals: Land a good Job and scale up my network 📈
-- ⚡ Fun fact: I can fix your printer but i like to give you the chance to learn
-- 😻 Check out a Portfolio I created: [Portfolio][website]
-
-### Connect with me:
-
-[![website](./img/globe-light.svg)](https://raouirahmeni.netlify.app#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://raouirahmeni.netlify.app#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/RaouiRahmeni#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/RaouiRahmeni#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/raoui-rahmeni-b82642203#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/raoui-rahmeni-b82642203#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/rahmeniraoui#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/rahmeniraoui#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -51,6 +29,27 @@
 
 <br />
 <br />
+
+- 🌱 I’m currently learning everything.
+- 👯 I’m looking to collaborate with you 😊
+- 🥅 2022 Goals: Land a good Job and scale up my network 📈
+- ⚡ Fun fact: I can fix your printer but i like to give you the chance to learn
+- 😻 Check out a Portfolio I created: [Portfolio][website]
+
+### Connect with me:
+
+[![website](./img/globe-light.svg)](https://raouirahmeni.netlify.app#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://raouirahmeni.netlify.app#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/RaouiRahmeni#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/RaouiRahmeni#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/raoui-rahmeni-b82642203#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/raoui-rahmeni-b82642203#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/rahmeniraoui#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/rahmeniraoui#gh-dark-mode-only)
+
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaouiRahmeni&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
