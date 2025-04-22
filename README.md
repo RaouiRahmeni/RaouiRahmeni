@@ -1,6 +1,9 @@
-# 👋 Hi, I'm Rawi  
-### **Full-Stack Developer | Open-Source Enthusiast**  
+<h1 align="center" style> Yo 👋, I'm Rawi </h1> 
+<br/>
+<h2 align="center" style> Full-Stack Developer | Open-Source Enthusiast </h2>     
+<br/>
 <h3 align="center" style>a cat person and an average meme enjoyer !!</h3>
+<br/>
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/RaouiRahmeni)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rawirahmani/)
@@ -9,6 +12,7 @@
 ---
 
 ### **🚀 My Tech Stack**  
+<br/>
 
 <p align="left">
 <img width="40" height="40" alt="javascript" src="./img/javascript-plain.svg"/>
