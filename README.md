@@ -12,24 +12,24 @@
 ### **🚀 My Tech Stack**  
 
 <p align="left">
-<img width="40" height="40" alt="javascript" src="./img/javascript-plain.svg"/>
 <img width="40" height="40" alt="typescript" src="./img/typescript-plain.svg"/>
-<img width="40" height="40" alt="HTML5" src="./img/html5-plain.svg"/>
-<img width="40" height="40" alt="CSS3" src="./img/css3-plain.svg"/>
-<img width="40" height="40" alt="git" src="./img/git-plain.svg"/>
+<img width="40" height="40" alt="javascript" src="./img/javascript-plain.svg"/>
 <img width="40" height="40" alt="redux" src="./img/redux-original.svg"/>
+<img width="40" height="40" alt="mysql" src="./img/mysql-plain-wordmark.svg"/>
+<img width="40" height="40" alt="CSS3" src="./img/css3-plain.svg"/>
+<img width="40" height="40" alt="HTML5" src="./img/html5-plain.svg"/>
+<img width="40" height="40" alt="linux" src="./img/linux-original.svg"/>
 <img width="40" height="40" alt="react" src="./img/react-original.svg"/>
+<img width="40" height="40" alt="git" src="./img/git-plain.svg"/>
 <img width="40" height="40" alt="angular" src="./img/angularjs-plain.svg"/>
 <img width="40" height="40" alt="bootstrap" src="./img/bootstrap-plain.svg"/>
 <img width="40" height="40" alt="webpack" src="./img/webpack-plain.svg"/>
 <img width="40" height="40" alt="babel" src="./img/babel-original.svg"/>
 <img width="40" height="40" alt="firebase" src="./img/firebase-plain.svg"/>
 <img width="40" height="40" alt="nodejs" src="./img/nodejs-plain-wordmark.svg"/>
-<img width="40" height="40" alt="mysql" src="./img/mysql-plain-wordmark.svg"/>
 <img width="40" height="40" alt="sequelize" src="./img/sequelize-original.svg"/>
 <img width="40" height="40" alt="mongodb" src="./img/mongodb-plain-wordmark.svg"/>
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-<img width="40" height="40" alt="linux" src="./img/linux-original.svg"/>
 <img width="40" height="40" alt="bash" src="./img/bash-original.svg"/>
 
 <br />
