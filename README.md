@@ -9,7 +9,7 @@
 ---
 
 ### **🚀 My Tech Stack**  
-```diff
+
 <p align="left">
 <img width="40" height="40" alt="javascript" src="./img/javascript-plain.svg"/>
 <img width="40" height="40" alt="typescript" src="./img/typescript-plain.svg"/>
