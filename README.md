@@ -1,5 +1,5 @@
-<h1 align="center" style> Yo 👋, I'm Rawi </h1> 
-<h2 align="center" style> Full-Stack Developer | Open-Source Enthusiast </h2>     
+<h1 align="center" > Yo 👋, I'm Rawi </h1> 
+<h2 align="center" > Full-Stack Developer | Open-Source Enthusiast </h2>     
 <h3 align="center" style>a cat person and an average meme enjoyer !!</h3>
 <br/>
 
